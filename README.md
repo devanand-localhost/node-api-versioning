@@ -103,10 +103,3 @@ curl http://localhost:3000/products/1?version=2
   ]
 }
 ```
-
-## Best Practices
-
-- Choose a versioning strategy that best fits your project's requirements
-- Maintain backward compatibility when possible
-- Provide clear documentation for API changes
-- Consider deprecation policies for older API versions
