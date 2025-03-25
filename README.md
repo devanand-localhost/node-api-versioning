@@ -86,8 +86,8 @@ curl http://localhost:3000/products/1?version=2
 {
   "version": "v1",
   "users": [
-    { "id": 1, "name": "John Doe v1" },
-    { "id": 2, "name": "Jane Smith v1" }
+    { "id": 1, "name": "Ram Rathod v1" },
+    { "id": 2, "name": "Shyam Sharma v1" }
   ]
 }
 ```
@@ -98,8 +98,8 @@ curl http://localhost:3000/products/1?version=2
 {
   "version": "v2",
   "users": [
-    { "id": 1, "name": "John Doe v2", "email": "john@example.com" },
-    { "id": 2, "name": "Jane Smith v2", "email": "jane@example.com" }
+    { "id": 1, "name": "Ram Rathod v2", "email": "Ram@example.com" },
+    { "id": 2, "name": "Shyam Sharma v2", "email": "Shyam@example.com" }
   ]
 }
 ```
